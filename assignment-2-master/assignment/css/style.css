@@ -1,0 +1,134 @@
+body {
+  background-color: #f0efef;
+  font-family: 'Open Sans', sans-serif;
+  margin: 0;
+  text-align: center;
+}
+
+header {
+  background-image: url(../images/header_bg.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 10px;
+  height: 300px;
+  color: #f0efef;
+}
+
+/* tag line title */
+h1 {
+  font-weight: 600;
+  font-size: 24px;
+  padding: 30px 0 20px 0;
+}
+
+/* relaxr logos */
+h2 {
+  font-weight: 800;
+  font-size: 24px;
+}
+.top-logo {
+  text-align: left;
+  padding-left: 40px;
+  }
+
+.bottom-logo {
+  color: #f9e42e;
+}
+
+/* benefits */
+h3 {
+  font-weight: 600;
+  font-size: 20px;
+  color: #033048;
+}
+
+/* get it now button */
+.get-it {
+  background-color: #f9e42e;
+  font-weight: 800;
+  font-size: 14px;
+  border-radius: 5px;
+  color: #033048;
+  padding: 10px 40px;
+  border: none;
+}
+
+/* benefits section */
+main {
+  color: #606161;
+  font-weight: 300;
+  font-size: 13px;
+  text-align: left;
+  padding: 20px 200px 20px 50px;
+}
+
+/* amanda quote section */
+blockquote {
+  background-image: url(../images/testimonial_bg.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  height: 200px;
+  color: #f0efef;
+  font-size: 18px;
+  padding-top: 50px;
+  padding-bottom: 30px;
+  margin: 0;
+}
+
+/* amanda quote */
+.quote {
+  font-weight: 300;
+  font-style: italic;
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* amanda name */
+.name {
+  font-weight: 600;
+}
+
+/* sign up now button section */
+aside {
+  background-color: #f9e42e;
+  padding: 15px 0;
+  margin: 0;
+}
+
+aside button {
+  background-color: #033048;
+  font-weight: 800;
+  font-size: 12px;
+  border-radius: 5px;
+  color: #f0efef;
+  padding: 10px 40px;
+  border: none;
+}
+
+/* footer section */
+
+footer {
+  background-color: #121212;
+  padding: 30px;
+}
+
+.twitter {
+  padding: 15px;
+  height: 20px;
+}
+
+.facebook {
+  padding: 15px;
+  height: 20px;
+}
+
+.copyright {
+  font-weight: 600;
+  font-size: 9px;
+  color: #f0efef;
+  padding: 0 0 10px 0;
+}
